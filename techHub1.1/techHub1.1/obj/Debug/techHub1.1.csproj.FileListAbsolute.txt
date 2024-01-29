@@ -1,0 +1,15 @@
+D:\VisualStudio projects\techHub1.1\techHub1.1\bin\Debug\techHub1.1.exe.config
+D:\VisualStudio projects\techHub1.1\techHub1.1\bin\Debug\techHub1.1.exe
+D:\VisualStudio projects\techHub1.1\techHub1.1\bin\Debug\techHub1.1.pdb
+D:\VisualStudio projects\techHub1.1\techHub1.1\obj\Debug\techHub1.1.csproj.AssemblyReference.cache
+D:\VisualStudio projects\techHub1.1\techHub1.1\obj\Debug\techHub1.1.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio projects\techHub1.1\techHub1.1\obj\Debug\techHub1._1.frmLogin.resources
+D:\VisualStudio projects\techHub1.1\techHub1.1\obj\Debug\techHub1._1.Properties.Resources.resources
+D:\VisualStudio projects\techHub1.1\techHub1.1\obj\Debug\techHub1.1.csproj.GenerateResource.cache
+D:\VisualStudio projects\techHub1.1\techHub1.1\obj\Debug\techHub1.1.csproj.CoreCompileInputs.cache
+D:\VisualStudio projects\techHub1.1\techHub1.1\obj\Debug\techHub1.1.exe
+D:\VisualStudio projects\techHub1.1\techHub1.1\obj\Debug\techHub1.1.pdb
+D:\VisualStudio projects\techHub1.1\techHub1.1\obj\Debug\techHub1._1.frmMain.resources
+D:\VisualStudio projects\techHub1.1\techHub1.1\obj\Debug\techHub1._1.frmNGS.resources
+D:\VisualStudio projects\techHub1.1\techHub1.1\obj\Debug\techHub1._1.frmOBS.resources
+D:\VisualStudio projects\techHub1.1\techHub1.1\obj\Debug\techHub1._1.frmAGS.resources
